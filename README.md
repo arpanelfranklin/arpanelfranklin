@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Arpanel Franklin
-DevOps Engineer | Cloud & Infrastructure Enthusiast
+<h1>Hi, I'm Arpanel Franklin</h1>
+<h3>DevOps Engineer | Cloud & Infrastructure Enthusiast</h3>
 
 I am a Computer Science student focused on DevOps, cloud infrastructure, and distributed systems.
 My work revolves around building reliable deployment pipelines, containerized applications, and infrastructure automation.
@@ -34,9 +34,9 @@ Designing containerized microservice architectures
 
 Exploring cloud-native systems and platform engineering
 
-Currently Working With - Kubernetes, Docker, Terraform, Jenkins, AWS
+<b>Currently Working With </b> - Kubernetes, Docker, Terraform, Jenkins, AWS
 
-Currently Learning - Ansible, Prometheus, Grafana, Cloud architecture patterns
+<b>Currently Learning </b> - Ansible, Prometheus, Grafana, Cloud architecture patterns
 
 <b>Collaboration - </b>
 I am open to collaborating on:
@@ -46,10 +46,14 @@ I am open to collaborating on:
   4. Open source contributions
 
 <b>Contact</b>
-Email:- arpanel.devops@gmail.com
-LinkedIn:- https://www.linkedin.com/in/arpanel-franklin-a5613a368
-GitHub: - https://github.com/arpanelfranklin
-LeetCode:- https://leetcode.com/arpanelfranklin
+Email: 
+arpanel.devops@gmail.com
+LinkedIn:
+https://www.linkedin.com/in/arpanel-franklin-a5613a368
+GitHub: 
+https://github.com/arpanelfranklin
+LeetCode:
+https://leetcode.com/arpanelfranklin
 
 Technologies and Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=aws" height="40"/> <img src="https://skillicons.dev/icons?i=docker" height="40"/> <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/> <img src="https://skillicons.dev/icons?i=terraform" height="40"/> <img src="https://skillicons.dev/icons?i=jenkins" height="40"/> <img src="https://skillicons.dev/icons?i=bash" height="40"/> <img src="https://skillicons.dev/icons?i=linux" height="40"/> <img src="https://skillicons.dev/icons?i=nginx" height="40"/> <img src="https://skillicons.dev/icons?i=git" height="40"/> </p>
