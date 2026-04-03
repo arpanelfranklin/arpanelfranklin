@@ -1,69 +1,87 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Hi,%20I'm%20Arpanel%20Franklin!&fontSize=50&fontAlignY=35&desc=DevOps%20Infrastructure%20Engineer%20%E2%80%94%20GitOps%20%E2%80%A2%20Cloud%20Automation%20%E2%80%A2%20Scalable%20Systems&descAlignY=55&descSize=20&animation=fadeIn" />
+
+  <i>Computer Science student focused on DevOps, cloud infrastructure, and distributed systems.</i><br>
+  <i>My work revolves around building reliable deployment pipelines, containerized applications, and infrastructure automation.</i><br>
+  <i>Currently exploring how modern systems are designed, deployed, and scaled in production environments.</i>
+  
+  <br><br>
+
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=arpanelfranklin&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/> 
+  </p>
+</div>
+
+---
+
+### 🚀 What I'm Currently Up To
+
+- **Building**: CI/CD pipelines and deployment workflows.
+- **Learning**: Infrastructure as Code, configuration management, Ansible, Prometheus, Grafana, and Cloud architecture patterns.
+- **Designing**: Containerized microservice architectures.
+- **Exploring**: Cloud-native systems and platform engineering.
+- **Tools in Rotation**: Kubernetes, Docker, Terraform, Jenkins, AWS.
+
+---
+
+### 🛠️ Technologies & Tools
+
+**Cloud & DevOps Infrastructure**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,bash,linux,nginx,git" />
+</p>
+
+**Programming & Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,spring,mongodb,mysql" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpanelfranklin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanelfranklin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpanelfranklin&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</p>
 
 
-<!--
-**arpanelfranklin/arpanelfranklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📡 Contribution Activity
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=arpanelfranklin&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=arpanelfranklin&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpanelfranklin&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+</picture>
 
-<h1>Hi, I'm Arpanel Franklin</h1>
-<h3>DevOps Engineer | Cloud & Infrastructure Enthusiast</h3>
+</div>
 
-I am a Computer Science student focused on DevOps, cloud infrastructure, and distributed systems.
-My work revolves around building reliable deployment pipelines, containerized applications, and infrastructure automation.
+---
 
-Currently exploring how modern systems are designed, deployed, and scaled in production environments.
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanelfranklin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
-Current Focus
+### Always Remember
+> *because even when life feals full, There is always a room for cup of COFFEE*
 
-Building CI/CD pipelines and deployment workflows
+---
 
-Learning Infrastructure as Code and configuration management
+### Let's Connect
 
-Designing containerized microservice architectures
+I am open to collaborating on **DevOps tooling**, **Infrastructure automation**, **Cloud-native projects**, and **Open source contributions**.
 
-Exploring cloud-native systems and platform engineering
+<br>
 
-<b>Currently Working With </b> - Kubernetes, Docker, Terraform, Jenkins, AWS
-
-<b>Currently Learning </b> - Ansible, Prometheus, Grafana, Cloud architecture patterns
-
-<b>Collaboration - </b>
-I am open to collaborating on:
-  1. DevOps tooling
-  2. Infrastructure automation
-  3. Cloud-native projects
-  4. Open source contributions
-
-<b>Contact</b>
-Email: 
-arpanel.devops@gmail.com
-LinkedIn:
-https://www.linkedin.com/in/arpanel-franklin-a5613a368
-GitHub: 
-https://github.com/arpanelfranklin
-LeetCode:
-https://leetcode.com/arpanelfranklin
-
-Technologies and Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=aws" height="40"/> <img src="https://skillicons.dev/icons?i=docker" height="40"/> <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/> <img src="https://skillicons.dev/icons?i=terraform" height="40"/> <img src="https://skillicons.dev/icons?i=jenkins" height="40"/> <img src="https://skillicons.dev/icons?i=bash" height="40"/> <img src="https://skillicons.dev/icons?i=linux" height="40"/> <img src="https://skillicons.dev/icons?i=nginx" height="40"/> <img src="https://skillicons.dev/icons?i=git" height="40"/> </p>
-Programming & Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=java" height="40"/> <img src="https://skillicons.dev/icons?i=python" height="40"/> <img src="https://skillicons.dev/icons?i=js" height="40"/> <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> <img src="https://skillicons.dev/icons?i=spring" height="40"/> <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> <img src="https://skillicons.dev/icons?i=mysql" height="40"/> </p>
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arpanelfranklin&show_icons=true&theme=default" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanelfranklin&layout=compact" height="165"/> </p>
-Streak Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpanelfranklin"/> </p>
-Philosophy
-
-I enjoy understanding how systems behave beyond the application layer —
-not just writing code, but learning how software is built, deployed, scaled, and maintained in production.
+<p align="center">
+  <a href="mailto:arpanel.devops@gmail.com"><img src="https://img.shields.io/badge/Email-arpanel.devops%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arpanel-franklin-a5613a368"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/arpanelfranklin"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/arpanelfranklin"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
