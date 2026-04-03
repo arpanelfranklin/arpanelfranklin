@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 What I'm Currently Up To
+### What I'm Currently Up To
 
 - **Building**: CI/CD pipelines and deployment workflows.
 - **Learning**: Infrastructure as Code, configuration management, Ansible, Prometheus, Grafana, and Cloud architecture patterns.
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 **Cloud & DevOps Infrastructure**
 <p align="left">
@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arpanelfranklin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats"/>
@@ -50,7 +50,7 @@
 </p>
 
 
-## 📡 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
