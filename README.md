@@ -56,7 +56,7 @@ My primary interests are platform engineering, DevOps, cloud infrastructure, and
 
 ## 04 — Architektur & Einblicke / Architecture & Insights
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/screenshots/jenkins-stage-view.png" alt="Jenkins CI Pipeline" width="90%">
   <br><sub>Jenkins CI Pipeline — Air Pollution Analytics Platform</sub>
 </p>
@@ -69,7 +69,7 @@ My primary interests are platform engineering, DevOps, cloud infrastructure, and
 <p align="center">
   <img src="assets/screenshots/kubectl-get-all.png" alt="Kubernetes Cluster Resources" width="90%">
   <br><sub>Kubernetes Cluster — Live Resource State</sub>
-</p>
+</p> -->
 
 
 
